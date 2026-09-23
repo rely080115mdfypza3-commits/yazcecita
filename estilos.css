@@ -1,0 +1,38 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    height: 70px;
+    line-height: 70px;
+    padding-left: 50px;
+
+    background: #585858;
+    color: #ffffff;
+
+    font-size: 3em;
+    font-weight: bold;
+
+    margin-bottom: 70px;
+}
+
+section{
+    background: #4ec213;
+}
+
+article{
+    display: flex;
+    justify-content: flex-start;
+}
+
+img{
+    border: solid 5px #df0d0d;
+    margin: 10px;
+    padding: 20px;
+    object-fit: cover;
+    width: 50px;
+    height: 50px;
+}
